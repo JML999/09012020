@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>33835945789-sku177q4o09861k8v693pieuv8sfp26n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.33835945789-sku177q4o09861k8v693pieuv8sfp26n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9wrvtwRQbfUi0oow7mD0HVBOkohm7om4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>33835945789</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.justin.AR-Camera</string>
+	<key>PROJECT_ID</key>
+	<string>akasha0-d039f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>akasha0-d039f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:33835945789:ios:ae83694035c508df8c3f54</string>
+	<key>DATABASE_URL</key>
+	<string>https://akasha0-d039f.firebaseio.com</string>
+</dict>
+</plist>
